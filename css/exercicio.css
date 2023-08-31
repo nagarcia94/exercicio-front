@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+
+
+body { background-image: url(../imagens/fundoex.jpg) }
+
+
+h1 { 
+    text-align: center;
+    background-color: rgb(69, 186, 240);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(88, 57, 224);
+    padding-inline: 10px;
+    
+}
+
+#container { 
+    background-color: rgba(163, 121, 231, 0.945);
+    padding-bottom: 50px;
+    padding-top: 20px;
+    border-radius: 20px;  
+    width: 70%;
+    margin: auto;
+}
+
+h2 { text-align: center;
+    background-color: rgb(69, 186, 240);
+    width: 50%;
+    margin: auto;}
+
+p { font-family: 'Libre Baskerville', serif;
+    text-align:center;
+}    
+
+ul { text-align:center;
+    width: 90px;
+    margin: auto;
+    padding: 0;
+}
+
+/* li::marker { content: none;} */
+
+li { list-style: none;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+figure {
+    text-align: center;    
+}
+
+h3 { text-align: center;
+    background-color: rgb(69, 186, 240);
+    width: 50%;
+    margin: auto;
+}
+
+
+hr { 
+    height: 8px;
+    background-color: rgb(108, 12, 233);
+    border-color: rgb(70, 181, 233);
+}
+
+p a { color: rgb(228, 208, 208);}
