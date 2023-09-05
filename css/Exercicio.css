@@ -10,24 +10,62 @@ body {
 h1 {
     font-family: 'Arvo', serif;
     text-align: center;
-    background-color: rgb(249, 121, 9);
     color: rgb(11, 69, 176);
-    margin-bottom: 50px;
-    padding: 20px;
     border-radius: 10px;
-    width: 50% ;
-    margin: auto;
+    padding: 8px;
+    background: linear-gradient(
+        45deg,
+        rgb(237, 128, 60),
+        rgb(255, 80, 5), 
+        rgb(241, 140, 85)
+  );
 }
 
 h2 {
     color: rgb(11, 69, 176);
+    display: inline-block;
+    outline-style: double;
 }
 
 p {
-    background-color: rgba(254, 120, 41, 0.445);
-    margin: 0%;
+    margin: 10px;
     width:  80%;
     font-family: 'Merriweather', serif;
     font-size: 20px;
+    padding-bottom: -2px;
 }
 
+.link {
+    background-color: rgb(249, 121, 9);
+    outline-style:double;
+    color: blue;
+    margin: 8px;
+    padding-top: 10px;
+    width: 18%;
+    text-align: center;
+    padding-left: 30px;
+    border-radius: 10px;
+
+}
+
+nav a:hover {
+    color: rgb(242, 241, 247);
+}
+
+ul {
+    font-size: larger;
+
+}
+
+.rodape {
+    background-color: rgba(237, 92, 14, 0.877);
+    padding-bottom: 8px;
+    padding-top: 0; 
+    width: 100%;
+}
+
+#p1 {
+    text-align: center;
+    font-size: medium
+
+}
