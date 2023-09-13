@@ -1,37 +1,32 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Merriweather&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&family=Enriqueta&display=swap');
 
 body {
     background-color: rgba(249, 142, 48, 0.605);
 }
 
 h1 {
-    font-family: 'Arvo', serif;
-    text-align: center;
-    color: rgb(11, 69, 176);
-    border-radius: 10px;
-    padding: 8px;
-    background: linear-gradient(
-        45deg,
-        rgb(237, 128, 60),
-        rgb(255, 80, 5), 
-        rgb(241, 140, 85)
-  );
+    font-family: 'Encode Sans Expanded', sans-serif;
+font-family: 'Enriqueta', serif;
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    padding: 60px;
+    width: 200px;
 }
 
 h2 {
-    color: rgb(11, 69, 176);
-    display: inline-block;
-    outline-style: double;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+    font-family: Encode Sans Expanded;
 }
 
 p {
     margin: 10px;
     width:  80%;
-    font-family: 'Merriweather', serif;
-    font-size: 20px;
+    font-family: Enriqueta;
+    font-size: 30px;
     padding-bottom: -2px;
 }
 
