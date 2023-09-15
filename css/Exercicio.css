@@ -8,11 +8,10 @@ body {
 
 h1 {
     font-family: 'Encode Sans Expanded', sans-serif;
-font-family: 'Enriqueta', serif;
     color: rgb(0, 0, 0);
-    font-size: 60px;
-    padding: 60px;
-    width: 200px;
+    font-size: 40px;
+    margin: 10px;
+
 }
 
 h2 {
