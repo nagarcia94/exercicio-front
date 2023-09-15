@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&family=Enriqueta&display=swap');
 
 body {
-    background-color: rgba(249, 142, 48, 0.605);
+    background-color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -14,7 +14,11 @@ h1 {
 
 }
 
-h2 {
+h2{  
+    font-family: Encode Sans Expanded; 
+    font-size: 28px
+}
+h3 {
     color: rgb(0, 0, 0);
     text-align: center;
     font-size: 30px;
