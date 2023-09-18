@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&family=Enriqueta&display=swap');
 
 body {
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(245, 245, 245)
 }
 
 h1 {
@@ -32,15 +32,13 @@ p {
     padding-bottom: -2px;
 }
 
-.link {
+/* /* .link {
     margin: 8px;
     padding-top: 10px;
     width: 18%;
     text-align: center;
-    padding-left: 30px;
-    border-radius: 10px;
-
-}
+    padding-left: 30px; }*/
+    
 
 nav a:hover {
     color: rgb(22, 96, 208);
