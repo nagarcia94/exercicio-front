@@ -3,20 +3,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&family=Enriqueta&display=swap');
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(245, 245, 245);
 }
 
 h1 {
     font-family: 'Encode Sans Expanded', sans-serif;
     color: rgb(0, 0, 0);
     font-size: 40px;
-    margin: 10px;
+    margin:0;
 
 }
 
 h2{  
     font-family: Encode Sans Expanded; 
-    font-size: 28px
 }
 h3 {
     color: rgb(0, 0, 0);
@@ -44,19 +43,12 @@ p {
 }
 
 nav a:hover {
-    color: rgb(242, 241, 247);
+    color: rgb(22, 96, 208);
 }
 
 ul {
     font-size: larger;
 
-}
-
-.rodape {
-    /* background-color: rgba(237, 92, 14, 0.877); */
-    padding-bottom: 8px;
-    padding-top: 0; 
-    width: 100%;
 }
 
 #p1 {
